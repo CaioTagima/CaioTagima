@@ -36,7 +36,7 @@ while True:
     
     print(f"O resultado é: {resultado}")
 
-    sair = input("Quer sair? (s)im ou (n)ão: ").lower()
+    sair = input("Quer sair? (S)im ou (N)ão: ").lower()
     if sair.startswith("s"):
         break
 
